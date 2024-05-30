@@ -1,0 +1,5 @@
+install 
+mediapipe 
+scikit-learn 
+matplotlib
+jaxlib==0.4.26
